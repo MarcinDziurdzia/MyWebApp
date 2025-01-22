@@ -95,3 +95,4 @@ c:\Users\dziur\Desktop\MyWebApp\obj\Debug\net9.0\refint\myWebApp.dll
 c:\Users\dziur\Desktop\MyWebApp\obj\Debug\net9.0\myWebApp.pdb
 c:\Users\dziur\Desktop\MyWebApp\obj\Debug\net9.0\myWebApp.genruntimeconfig.cache
 c:\Users\dziur\Desktop\MyWebApp\obj\Debug\net9.0\ref\myWebApp.dll
+C:\Users\dziur\Desktop\MyWebApp\obj\Debug\net9.0\myWebApp.sourcelink.json
